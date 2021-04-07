@@ -1,11 +1,10 @@
-package com.raywenderlich.favoritemovies
+package com.example.calvaryapp.ui.services
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentStatePagerAdapter
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.example.calvaryapp.Service
-import com.example.calvaryapp.ui.home.ServiceTimesFragment
 
 
 // 1
