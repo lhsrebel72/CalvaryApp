@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992656160288",
+    "project_id": "calvaryapp-db0d8",
+    "storage_bucket": "calvaryapp-db0d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992656160288:android:40c1088ed56ff650fa2e45",
+        "android_client_info": {
+          "package_name": "com.example.calvaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992656160288-e6kh8b9qphbgrev5m6dem4ctuekdqjc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL_9LWc-nI4nt8LXBVX9KS151-fCl_9og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992656160288-e6kh8b9qphbgrev5m6dem4ctuekdqjc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
